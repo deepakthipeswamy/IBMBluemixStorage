@@ -6,7 +6,6 @@
 # 1. Source code provided in Class 1 and code sheet that was given in class
 
 import glob
-import sys
 import pdb
 import gnupg
 import swiftclient
